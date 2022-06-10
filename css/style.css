@@ -149,7 +149,7 @@ body{
     width: 500px;
     height: 400px;
     background-image: url('../images/me.jpg');
-    background-size: 75% 100%;
+    background-size: 90% 100%;
     background-repeat: no-repeat;
     border-radius: 10px;
 }
@@ -424,7 +424,7 @@ body{
         font-size: 10px;
     }
     .myImage{
-        margin-left: 60px;
+        margin-left: 30px;
     }
     .xp{
         width: 100%;
@@ -469,7 +469,7 @@ body{
         font-size: 11px;
     }
     .myImage{
-        margin-left: 80px;
+        margin-left: 40px;
     }
     .xp{
         width: 100%;
