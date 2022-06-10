@@ -458,11 +458,12 @@ body{
         margin-top: 40px;
         height: 70vh;
     }
-    .bg-left{
-        width: 60%;
+   .bg-left{
+        width: 70%;
+	margin-top: -60px;
     }
     .bg-left>h1{
-        font-size: 24px;
+        font-size: 30px;
     }
     .bg-left>h4{
         font-size: 11px;
