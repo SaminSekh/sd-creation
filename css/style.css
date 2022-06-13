@@ -273,18 +273,18 @@ body{
     align-items: center;
     flex-wrap: wrap;
 }
-.box2>button{
+button{
     margin: 50px;
     padding: 10px;
     border: none;
     border-radius: 10px;
     background-color: var(--pnk);
 }
-.box2>button:hover{
+button:hover{
     background-color: var(--vio);
     color: var(--wht);
 }
-.box2>button>a{
+button>a{
     font-family: "apercu",sans-serif;
     color: white;
     text-decoration: none;
